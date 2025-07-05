@@ -1,0 +1,18 @@
+﻿<Defs>
+  <PawnKindDef>
+    <defName>CommonwealthSettler</defName>
+    <label>settler</label>
+    <name>Commonwealth colonist</name>
+    <race>Human</race>
+    <defaultFaction>CommonwealthPoland</defaultFaction>
+    <weaponTags><li>Melee</li></weaponTags>
+    <apparelTags><li>Tribal</li></apparelTags>
+    <mustStartWithEquipment>true</mustStartWithEquipment>
+    <fixedEquipment>
+      <li>SteelSword</li>
+      <li>Bow_Long</li>
+      <li>Apparel_FabricShirt</li>
+      <li>Apparel_FabricPants</li>
+    </fixedEquipment>
+  </PawnKindDef>
+</Defs>

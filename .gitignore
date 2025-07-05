@@ -1,0 +1,36 @@
+# RimWorld Mod .gitignore
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Build artifacts (if any)
+bin/
+obj/
+*.dll
+*.pdb
+
+# Backup files
+*.bak
+*.backup
+
+# RimWorld specific
+*.rws
+*.rws.old 
