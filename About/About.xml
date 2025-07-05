@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <ModMetaData>
-  <name>Commonwealth Poland</name>
+  <name>Commonwealth Poland Lithuania</name>
+  <modIconPath>CommonwealthPL/KingdomCoa</modIconPath>
   <author>Traktor</author>
-  <packageId>Traktor.CommonwealthPoland</packageId>
+  <packageId>Traktor.CommonwealthPL</packageId>
   <supportedVersions>
     <li>1.5</li>
     <li>1.6</li>
   </supportedVersions>
   <description>
     Adds a new medieval faction based on the Polish–Lithuanian Commonwealth.
-    The Commonwealth Poland faction is neutral by default and uses traditional medieval weapons and apparel. 
+    The Commonwealth Poland Lithuania faction is neutral by default and uses traditional medieval weapons and apparel. 
     Expect traders, visitors, and a touch of old-world charm.
   </description>
 </ModMetaData>

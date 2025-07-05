@@ -1,18 +1,26 @@
 ﻿<Defs>
   <PawnKindDef>
     <defName>CommonwealthSettler</defName>
-    <label>settler</label>
-    <name>Commonwealth colonist</name>
+    <label>Commonwealth colonist</label>
+    <combatPower>100</combatPower>
     <race>Human</race>
-    <defaultFaction>CommonwealthPoland</defaultFaction>
-    <weaponTags><li>Melee</li></weaponTags>
-    <apparelTags><li>Tribal</li></apparelTags>
-    <mustStartWithEquipment>true</mustStartWithEquipment>
-    <fixedEquipment>
-      <li>SteelSword</li>
-      <li>Bow_Long</li>
-      <li>Apparel_FabricShirt</li>
-      <li>Apparel_FabricPants</li>
-    </fixedEquipment>
+    <initialResistanceRange>
+      <min>5</min>
+      <max>10</max>
+    </initialResistanceRange>
+    <initialWillRange>
+      <min>0</min>
+      <max>5</max>
+    </initialWillRange>
+    <apparelMoney>150~500</apparelMoney>
+    <weaponMoney>90~150</weaponMoney>
+    <defaultFactionType>CommonwealthPL</defaultFactionType>
+    <weaponTags>
+      <li>MedievalMeleeDecent</li>
+    </weaponTags>
+    <apparelTags>
+      <li>IndustrialBasic</li>
+      <li>IndustrialAdvanced</li>
+    </apparelTags>
   </PawnKindDef>
 </Defs>

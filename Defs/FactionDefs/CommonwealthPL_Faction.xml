@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <FactionDef ParentName="TribeBase">
+    <defName>CommonwealthPL</defName>
+    <label>Commonwealth of Poland Lithuania</label>
+    <description>A neutral medieval faction descended from ancient Polish and Lithuanian tribes.</description>
+    <colorSpectrum>
+      <li>(1.0, 1.0, 1.0)</li>   
+      <li>(0.8, 0.0, 0.0)</li>  
+    </colorSpectrum>
+    <pawnsPlural>Commonwealthians</pawnsPlural>
+    <!-- You can add pawngroupMakers or other settings here if desired -->
+  </FactionDef>
+</Defs>
